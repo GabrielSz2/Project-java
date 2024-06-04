@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\gabriel.souza\Downloads\gabriel\workspace\WK - eclipse\.metadata\.plugins\org.eclipse.jdt.core
+928041953.index
+1865797976.index
+3163773410.index
